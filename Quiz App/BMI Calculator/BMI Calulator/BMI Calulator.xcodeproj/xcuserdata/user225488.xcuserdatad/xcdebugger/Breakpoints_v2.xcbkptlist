@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "55357394-4A4E-46AC-B132-6E517EFF1309"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ED33071-64C9-47BC-B83F-2BF280F0E0EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI Calulator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7ED33071-64C9-47BC-B83F-2BF280F0E0EE - 2f96d02cb4f8f3fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calulator.ViewController.calculateBMI.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "BMI Calulator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user225488/Desktop/Training/SecondApp/CardGame/Calculator/MusicApp/Quiz%20App/BMI%20Calculator/BMI%20Calulator/BMI%20Calulator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7ED33071-64C9-47BC-B83F-2BF280F0E0EE - 517a814c1e8923e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calulator.ViewController.calculateBMI.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "BMI Calulator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user225488/Desktop/Training/SecondApp/CardGame/Calculator/MusicApp/Quiz%20App/BMI%20Calculator/BMI%20Calulator/BMI%20Calulator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "7ED33071-64C9-47BC-B83F-2BF280F0E0EE - e85628699cd197fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calulator.ViewController.calculateBMI.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "BMI Calulator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user225488/Desktop/Training/SecondApp/CardGame/Calculator/MusicApp/Quiz%20App/BMI%20Calculator/BMI%20Calulator/BMI%20Calulator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7ED33071-64C9-47BC-B83F-2BF280F0E0EE - ee15637926faee4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calulator.ViewController.calculateBMI.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BMI Calulator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user225488/Desktop/Training/SecondApp/CardGame/Calculator/MusicApp/Quiz%20App/BMI%20Calculator/BMI%20Calulator/BMI%20Calulator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7ED33071-64C9-47BC-B83F-2BF280F0E0EE - b551f7bde90bf028"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calulator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_Calulator.ViewController"
+                  moduleName = "BMI Calulator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user225488/Desktop/Training/SecondApp/CardGame/Calculator/MusicApp/Quiz%20App/BMI%20Calculator/BMI%20Calulator/BMI%20Calulator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "7ED33071-64C9-47BC-B83F-2BF280F0E0EE - 8a81c679137c8a6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calulator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_Calulator.ViewController&gt;"
+                  moduleName = "BMI Calulator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user225488/Desktop/Training/SecondApp/CardGame/Calculator/MusicApp/Quiz%20App/BMI%20Calculator/BMI%20Calulator/BMI%20Calulator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
